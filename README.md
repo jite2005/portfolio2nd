@@ -2,19 +2,19 @@
 
 Welcome to my personal web portfolio, built using HTML, CSS, and JavaScript.
 
-🚀 About Me
+**🚀 About Me**
 
 I am Jitendra Kumar Maurya, a fresher web developer with skills in:
 
-Programming Languages: C++, Java, Python (basic)
+**Programming Languages:** C++, Java, Python (basic)
 
-Web Technologies: HTML, CSS, JavaScript
+**Web Technologies:** HTML, CSS, JavaScript
 
-Databases / Data: SQL
+**Databases / Data:** SQL
 
 I’m passionate about creating intuitive, responsive websites and continuously growing through hands-on projects and learning.
 
-💼 What You’ll Find Here
+**💼 What You’ll Find Here**
 
 This repository powers my portfolio site, which highlights:
 
@@ -28,7 +28,7 @@ Contact details & CV download
 
 Visit the live site here: jite2005.github.io/portfolio2nd
 
-🧰 Tech Stack & Tools
+**🧰 Tech Stack & Tools**
 
 HTML5 / CSS3 / JavaScript
 
@@ -36,7 +36,7 @@ Responsive design for mobile & desktop
 
 (Future) Integration of frameworks / libraries as I grow
 
-📂 Repository Structure
+**📂 Repository Structure**
 
 Here’s a high-level view of how this repository is organized:
 
@@ -50,7 +50,7 @@ Here’s a high-level view of how this repository is organized:
 
 Feel free to explore and inspect the code. I welcome suggestions and feedback!
 
-✨ Contribute & Connect
+**✨ Contribute & Connect**
 
 If you spot improvements — open an issue or a PR
 
